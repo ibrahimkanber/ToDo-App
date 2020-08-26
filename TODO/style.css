@@ -1,0 +1,13 @@
+#header {
+    font-size: 25px;
+    color: red;
+    text-align: center;
+}
+
+.card-header {
+    color: blue;
+}
+
+a {
+    color: white;
+}
